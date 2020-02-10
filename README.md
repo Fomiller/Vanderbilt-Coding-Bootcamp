@@ -1,2 +1,2 @@
 # Vanderbilt-Coding-Bootcamp
-Course work for the Vanderbilt Full-stack Boot Camp
+This repository will contain all the class work and projects that I do from the Vanderbilt Fulls-stack Coding Boot Camp. 
